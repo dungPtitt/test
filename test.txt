@@ -1,1 +1,24 @@
 test
+git add 1
+git add 2
+git add 3
+git add 5
+
+
+git commit 1
+git commit 2
+git commit 3
+git commit 4
+
+git reset 1
+fix 1
+fix 2
+fix 3
+
+develop 1
+develop 2
+
+
+develop 3
+
+fix 4
