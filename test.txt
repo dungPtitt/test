@@ -25,4 +25,11 @@ develop 6
 develop 7
 develop 8
 
+
+fix 4
+
+fix 5 
+
+fix 6
+
 config at hear
